@@ -1,0 +1,12 @@
+{
+  "data_dir": "${TAFA_DATA_DIR}",
+  "output_dir": "output/2026-10-official",
+  "month": "2026-10",
+  "recursive": true,
+  "sample": false,
+  "confirm_real_data": false,
+  "pdf": false,
+  "font": "Montserrat",
+  "fallback_fonts": ["Aptos", "Calibri", "Arial", "DejaVu Sans"],
+  "libreoffice_path": null
+}
